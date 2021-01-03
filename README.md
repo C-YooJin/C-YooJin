@@ -1,4 +1,6 @@
-### Hi there 👋
+### YooJin Choi, Seoul, Korea
+✨ Backend Programmer, Data Engineering ✨
+
 
 <!--
 **C-YooJin/C-YooJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
