@@ -1,4 +1,4 @@
-### YooJin Choi, Seoul, Korea
+### Seoul, Korea
 ✨ Backend Programmer, Data Engineering ✨
 
 
