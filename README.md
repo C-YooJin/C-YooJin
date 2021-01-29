@@ -1,8 +1,5 @@
 ### Seoul, Korea
 ✨ Backend Programmer, Data Engineering ✨
-<br>
-I'm interested in . . . <br>
-![image](https://user-images.githubusercontent.com/30011635/103617324-69ceee80-4f71-11eb-96a7-8da264828092.png)
 
 
 <!--
