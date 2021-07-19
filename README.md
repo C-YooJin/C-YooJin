@@ -1,7 +1,8 @@
 ### Seoul, Korea
 ✨ Backend Programmer, Data Engineering ✨
 
-- Language: Java, Python (Also, interested in Flutter(Dart) 😀 )
+- Language: Java, Python
+- Interested in: Spring, JPA, Kafka, Flutter
 
 <!--
 **C-YooJin/C-YooJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
