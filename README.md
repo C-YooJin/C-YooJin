@@ -2,7 +2,7 @@
 ✨ Backend Programmer, Data Engineering ✨
 
 - Language: Java, Python
-- Interested in: Spring, JPA, Kafka, Flutter
+- Interested in: Spring, JPA, Hadoop, Kafka
 
 <!--
 **C-YooJin/C-YooJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
